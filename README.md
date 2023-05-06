@@ -1,5 +1,8 @@
 Hi I'm Sujith
 =============
+
+I love solving bugs and fixing things. I also enjoy making GUI for CLI tools as a timekiller.
+
 Web Developer 
 ------------------------------------------
 
@@ -11,6 +14,16 @@ Web Developer
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 </p>
+
+Current work
+-------------
+- [PyZombis](github.com/PyAr/PyZombis/)
+- [Crooked lines](https://crookedlines.live)
+- [Hashcat GUI]
+
+Learning
+--------
+
 
 <!--
 **sujith-rek/sujith-rek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
