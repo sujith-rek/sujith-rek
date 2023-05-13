@@ -24,7 +24,7 @@ Skills
 
 Current work
 -------------
-- [PyZombis](github.com/PyAr/PyZombis/)
+- [PyZombis](https://github.com/PyAr/PyZombis/)
 - [Crooked lines](https://crookedlines.live)
 - [Hashcat GUI]
 
