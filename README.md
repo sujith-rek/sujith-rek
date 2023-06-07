@@ -1,7 +1,7 @@
 Hi I'm Sujith
 =============
-
-I love solving bugs and fixing things. I also enjoy making GUI for CLI tools as a timekiller.
+I like diving into source code and finding issues.
+I won't leave them unsolved 😄
 
 
 Skills
