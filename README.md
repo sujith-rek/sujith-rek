@@ -1,7 +1,6 @@
 Hi I'm Sujith
 =============
-I like diving into source code and finding issues.
-I won't leave them unsolved 😄
+I like diving into source code and finding issues, won't leave them unsolved 😄
 
 
 Skills
