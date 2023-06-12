@@ -30,6 +30,9 @@ Current work
 Learning
 --------
 
+- Secure software development from linux foundation
+- Cybermillion labs from immersive labs
+- Cryptography and linux skills from Overthewire.org
 
 <!--
 **sujith-rek/sujith-rek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
