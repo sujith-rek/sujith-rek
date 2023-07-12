@@ -25,6 +25,8 @@ Current work
 -------------
 - [PyZombis](https://github.com/PyAr/PyZombis/)
 - [Crooked lines](https://crookedlines.live)
+- Surge
+- Cabby
 - [Hashcat GUI]
 
 Learning
