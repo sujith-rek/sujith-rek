@@ -1,6 +1,6 @@
-Hi I'm Sujith
+Hi, I'm Sujith
 =============
-I like diving into source code and finding issues, won't leave them unsolved 😄
+I like diving into source code and finding issues, I won't leave them unsolved 😄
 
 
 Skills
@@ -27,14 +27,13 @@ Current work
 - [Crooked lines](https://crookedlines.live)
 - Surge
 - Cabby
-- [Hashcat GUI]
 
 Learning
 --------
 
-- Secure software development from linux foundation
+- Secure software development from Linux foundation
 - Cybermillion labs from immersive labs
-- Cryptography and linux skills from Overthewire.org
+- Cryptography and Linux skills from Overthewire.org
 
 <!--
 **sujith-rek/sujith-rek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
