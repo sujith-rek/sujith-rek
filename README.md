@@ -27,4 +27,6 @@ find more at [Portfolio](https://sujithsoma.vercel.app)
 <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
+
+[![An image of @sujith's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sujith)](https://holopin.io/@sujith)
           
