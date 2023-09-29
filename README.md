@@ -28,5 +28,7 @@ find more at [Portfolio](https://sujithsoma.vercel.app)
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
+<a href= "https://meshery.layer5.io/user/9ab353fd-fb5d-412a-8edb-079fbadb3a85?tab=badges"><img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/meshery/meshery.svg" alt = "Meshery" /></a >
+
 [![An image of @sujith's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sujith)](https://holopin.io/@sujith)
           
